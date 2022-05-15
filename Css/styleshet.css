@@ -82,12 +82,21 @@ img {
 
 .img-section2{
 
-    width: auto;
-    height: auto;
+    
+    
+    background-color: white;
     
 }
 
 .img-mini{
-width: 80%;
 
+width: 40rem;
+height: 20rem;
+margin-left: 5rem;
+border-radius:  1.9rem;
+}
+.Section2 a{
+font-weight: bold;
+text-transform: uppercase;
+color: black;
 }
