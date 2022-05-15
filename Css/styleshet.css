@@ -202,3 +202,39 @@ color: black;
     margin-top: 2rem;
     padding: 1rem;
 }
+
+
+.Fotos-bar{
+    display: flex;
+    gap: 2rem;
+    font-weight: bold;
+    color: black;
+}
+
+.Img-Foto-Main{
+    width: 116rem;
+    
+}
+
+.Section2-fotos{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+.Button-rose{
+    background-color: var(--Rose);
+    color: #F6F8F9;
+    border-radius: 1rem;
+    width: 22rem;
+    height: 5rem;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.input-des{
+    width: 22rem;
+    border-radius: 1rem;
+   font-weight: bold;
+   color: black;
+}
