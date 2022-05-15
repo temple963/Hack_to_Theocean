@@ -100,3 +100,16 @@ font-weight: bold;
 text-transform: uppercase;
 color: black;
 }
+
+.grid-section{
+
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(3,2fr);
+    gap: 3rem;
+}
+
+.fish3{
+    grid-column: 2;
+    grid-row: 2/2;
+}
