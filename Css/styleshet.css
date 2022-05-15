@@ -73,3 +73,21 @@ img {
     width: auto;
     height: auto;
 }
+
+.Section2{
+    display: flex;
+    justify-content: space-evenly;
+    gap:1rem;
+}
+
+.img-section2{
+
+    width: auto;
+    height: auto;
+    
+}
+
+.img-mini{
+width: 80%;
+
+}
