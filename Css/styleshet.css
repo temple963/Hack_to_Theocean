@@ -75,13 +75,21 @@ img {
     width: 50rem;
    
 }
+.texto-encima h2{
 
+    color: white;
+   
+    text-align: center;
+    font-size: 4rem;
+}
 .texto-encima p{
+    
     font-weight: bold;
     color: white;
     backdrop-filter:blur(3px) ;
-    
+    font-size: 2rem;
 }
+
 
 /*.centrado{
     position: absolute;
