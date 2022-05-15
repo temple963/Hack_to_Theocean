@@ -37,6 +37,9 @@ img {
     margin: 0 auto;
 }
 
+h1{
+    text-align: center;
+}
 
 .header {
     display: flex;
@@ -59,7 +62,7 @@ img {
 
 .Firstsection{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
    
 }
 
@@ -70,8 +73,8 @@ img {
 
 .texto-encima{
     position: absolute;
-    top: 270px;
-    left: 250px;
+    top: 250px;
+    left: 430px;
     width: 50rem;
    
 }
@@ -98,12 +101,7 @@ img {
     transform: translate(-50%, -50%);
 }*/
 
-.SecondImg{
-    width: 30rem;
-    padding: 6rem;
-    margin-right: 11rem;
-    margin-top: 11rem;
-}
+
 
 .Img-Container{
     width: 50rem;
@@ -169,11 +167,16 @@ color: black;
     display:flex ;
     justify-content: space-evenly;
     gap: 2rem;
+        
+}
+.Footer a {
+    color: white;
 }
 
 .nav1-foot,.nav2-foot,.nav3-foot{
     display: flex;
     flex-direction: column;
+
 }
 
 .input{
