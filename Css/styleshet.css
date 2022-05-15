@@ -113,3 +113,17 @@ color: black;
     grid-column: 2;
     grid-row: 2/2;
 }
+
+.main-section2{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:2rem;
+
+}
+
+.graph-container{
+    width: 50rem;
+    height: 64rem;
+    margin-left: 15rem;
+
+}
