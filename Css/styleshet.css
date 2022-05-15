@@ -70,7 +70,7 @@ img {
 }
 
 .Img-Container{
-    width: auto;
+    width: 50rem;
     height: auto;
 }
 
@@ -126,4 +126,16 @@ color: black;
     height: 64rem;
     margin-left: 15rem;
 
+}
+
+.Footer{
+    background-color: var(--Footer);
+    display:flex ;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.nav1-foot,.nav2-foot,.nav3-foot{
+    display: flex;
+    flex-direction: column;
 }
