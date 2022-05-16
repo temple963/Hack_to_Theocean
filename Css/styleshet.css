@@ -76,7 +76,10 @@ a:hover{
     justify-content: center;
     gap: 2rem; 
 }
-
+.LogoContainer{
+    width: 14rem;
+    height: 20rem;
+}
 .Firstsection{
     display: flex;
     justify-content: space-evenly;
